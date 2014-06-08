@@ -1,0 +1,6 @@
+#Ignore any binary files-- don't want to pull those down 
+
+*.exe
+*.dll
+*.app
+*.o
